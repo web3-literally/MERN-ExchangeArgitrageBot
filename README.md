@@ -1,5 +1,5 @@
 # EasyTrage
-### Cryptocurrency Arbitrage bot/helper written in MERN by Mike Hamilton, Kevin Lee, Vikram Melkote, Christopher Kong, and Abdul Mohamed
+### Exchange Arbitrage bot/helper written in MERN by Bear-Gold
 
 ## About
 
@@ -48,3 +48,7 @@ Accessing db shell
 3. `mongo`
 
 To exit mongo shell (or docker container's bash): `exit`
+
+If you have any questions please contact to me
+Skype: live:smiling.cstar
+Email: bluedragon.cstar@gmail.com
